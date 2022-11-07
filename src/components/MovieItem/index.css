@@ -1,0 +1,13 @@
+.custom-style {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.trigger-button {
+  align-self: flex-end;
+  margin-right: 20px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
